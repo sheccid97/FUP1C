@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+69
+"algoritmo que que muestra la calificacion dependiendo de las tareas"
+4
+1
+28
+"ingresa el total de tareas"
+5
+1
+2
+n1
+4
+1
+40
+"ingresa el numero de tareas realizadas"
+5
+1
+2
+n2
+4
+1
+38
+'ingresa el valor de  la calificacion'
+5
+1
+2
+n3
+6
+1
+1
+x
+8
+n2*n3/n1
+4
+1
+23
+"tu calificacion es", x
+1

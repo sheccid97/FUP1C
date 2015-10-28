@@ -1,0 +1,6 @@
+inicio
+  leer n1
+  leer n2
+  resultado-n1*n2/2
+  escribir resultado
+fin
